@@ -1,0 +1,6 @@
+Equipment ID,Date,Sensor 1 (Temperature),Sensor 2 (Pressure),Sensor 3 (Vibration),Maintenance History,Failure
+1,2022-01-01 08:00:00,28.5,102.3,0.8,None,0
+2,2022-01-01 08:15:00,30.2,98.7,1.2,Maintenance 1,0
+3,2022-01-01 08:30:00,27.8,99.9,1.0,None,0
+4,2022-01-01 08:45:00,29.3,100.5,0.9,Maintenance 2,0
+5,2022-01-01 09:00:00,31.0,97.6,1.5,None,1
